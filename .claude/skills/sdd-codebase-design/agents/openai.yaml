@@ -1,0 +1,5 @@
+interface:
+  display_name: "SDD Codebase Design"
+  short_description: "Choose interfaces and test seams during SDD planning"
+policy:
+  allow_implicit_invocation: true

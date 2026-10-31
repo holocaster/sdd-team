@@ -1,0 +1,5 @@
+interface:
+  display_name: "SDD Diagnosing Bugs"
+  short_description: "Prove suspected defects during read-only SDD review"
+policy:
+  allow_implicit_invocation: true
